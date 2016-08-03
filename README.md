@@ -1,7 +1,7 @@
 
 
 
-The green corner-a website about lettuce
+The Green Corner-a website about lettuce
 
 
 www.romaneg.co.uk
