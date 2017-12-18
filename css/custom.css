@@ -1,0 +1,61 @@
+section.success {
+    background: #217cca;
+    color: #fff;
+}
+
+hr.star-light:after {
+    background-color: #217cca;
+    color: #c6de0b;
+}
+
+
+header {
+    text-align: center;
+    background: #217cca;
+}
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-size: 14px; */
+    line-height: 1.42857143;
+    color: #217cca;
+    background-color: #fff;
+}
+
+
+hr.star-primary:after {
+    background-color: #fff;
+    color: #fffa34;
+}
+
+
+hr.star-primary {
+    border-color: #217cca;
+}
+
+.kimboz {
+	height: 300px;
+	width: 340px;
+}
+
+
+.fabrio {
+	margin-top: -300px;
+}
+
+.foogle {
+	position: relative;
+	top: 90px;
+}
+
+
+.btn-outline {
+    color: #fff;
+    font-size: 20px;
+    border: 2px solid #fff;
+    background: 0 0;
+    transition: all .3s ease-in-out;
+    margin-top: 15px;
+    margin-right: 19px;
+}
