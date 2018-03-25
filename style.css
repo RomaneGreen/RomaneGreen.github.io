@@ -1,0 +1,56 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+grid-template-rows:  14rem 1rem 18rem 18rem 14rem ;
+}
+
+.title{
+    background-color: red;
+    display: flex;
+justify-content: center; /* align horizontal */
+align-items: center; /* align vertical */
+}
+
+  .smalltxt{
+      font-size: 18px;
+      font-weight: 100;
+      text-align: center;
+  }
+
+.navigation{
+    background-color: orange
+}
+
+.paths{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+li{
+    border-right: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+li:hover{
+background-color: red;
+}
+.about{
+  background-color: green;
+}
+
+.projects{
+    background-color: brown;
+}
+.contact{
+    background-color: purple;
+}
