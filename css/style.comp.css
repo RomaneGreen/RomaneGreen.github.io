@@ -134,7 +134,7 @@ body {
       color: rgba(255, 255, 255, 0.8); }
     .user-nav__link:hover {
       color: #fff;
-      background: #D8364C; }
+      background: green; }
     @media only screen and (max-width: 37.5em) {
       .user-nav__link {
         padding: 1rem; } }
@@ -185,7 +185,7 @@ body {
         font-size: 3rem;
         margin-bottom: 2rem; } }
     .hero__heading--name {
-      color: #D8364C; }
+      color: $color-red; }
 
 .btn {
   font-size: 1.5rem;
@@ -198,7 +198,7 @@ body {
   outline: none;
   cursor: pointer;
   color: #fff;
-  background-color: #D8364C;
+  background-color: green;
   transition: all 400ms; }
   @media only screen and (max-width: 37.5em) {
     .btn {
@@ -314,7 +314,7 @@ body {
   font-size: 1.8rem;
   font-weight: 600;
   margin: 2rem 0 0 1rem;
-  color: #D8364C; }
+  color: green; }
   @media only screen and (max-width: 56.25em) {
     .skills {
       width: 100%; } }
@@ -406,14 +406,14 @@ body {
     text-decoration: none;
     transition: color 400ms; }
     .reference__link:hover {
-      color: #D8364C; }
+      color: green; }
 
 .contact-form {
   display: flex;
   width: 75rem;
   padding: 3rem;
   border-radius: 6px;
-  background: linear-gradient(90deg, #D8364C 54.3%, #393e46 50%); }
+  background: linear-gradient(90deg, green 54.3%, #393e46 50%); }
   @media only screen and (max-width: 37.5em) {
     .contact-form {
       background: #393e46; } }
@@ -521,7 +521,7 @@ body {
     color: rgba(255, 255, 255, 0.8);
     transition: all 400ms; }
     .social-media__icon:hover {
-      color: #D8364C; }
+      color: green; }
 
 .copyright {
   font-size: 1.5rem;
@@ -529,7 +529,7 @@ body {
   color: rgba(255, 255, 255, 0.8);
   margin: 0 auto; }
   .copyright__name {
-    color: #D8364C;
+    color: green;
     font-weight: bold; }
 
 .margin-bottom-small {

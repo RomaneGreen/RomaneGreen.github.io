@@ -13,9 +13,39 @@
   $padding-sides: 6rem;
   $color-font: #404040;
   $color-blue: #26AFEB;
-  $color-red: #D8364C;
-  $color-light-red: #fc5d76;
-  $color-dark-red: #BD032B;
+
+//   background: #134E5E;  /* fallback for old browsers */
+// background: -webkit-linear-gradient(to right, #71B280, #134E5E);  /* Chrome 10-25, Safari 5.1-6 */
+// background: linear-gradient(to right, #71B280, #134E5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+// background: #1D976C;  /* fallback for old browsers */
+// background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  /* Chrome 10-25, Safari 5.1-6 */
+// background: linear-gradient(to right, #93F9B9, #1D976C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  // $color-red: #D8364C;
+  //  $color-light-red: #fc5d76;
+  //  $color-dark-red: #BD032B;
+  
+  // $color-red: #3d72b4;
+  // $color-light-red: #3d72b4;
+  //  $color-dark-red: #525252;
+
+  // $color-red: #135058;
+  // $color-light-red: #F1F2B5;
+  //  $color-dark-red: #135058;
+
+  // $color-red: #00bf8f;
+  // $color-light-red: #00bf8f;
+  //  $color-dark-red: #001510;
+
+  // $color-red: #00bf8f;
+  // $color-light-red: #00bf8f;
+  //  $color-dark-red: #001510;
+
+  $color-red: #1D976C;
+  $color-light-red: #93F9B9;
+   $color-dark-red: #1D976C;
+
   $color-white: #fff;
   $color-gray: #d0d0d0;
   $color-light-gray: hsla(0,0%,100%,.8);
