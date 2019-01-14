@@ -7,7 +7,7 @@ const data = [
   {
     url: "https://greensgourmets.com/",
     gitHubUrl: "https://github.com/RomaneGreen/greensgourmets",
-    img: "img/react.png",
+    img: "img/greensgourmets.jpg",
     title: "Green's Gourmets",
     desc:
       "A resaturant built using React and Redux featuring an online store built using Gatsby and Graphql.Deployed using netlify."
