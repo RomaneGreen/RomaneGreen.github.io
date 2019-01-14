@@ -6,43 +6,43 @@
 const data = [
   {
     url: "https://greensgourmets.com/",
-    gitHubUrl: "https://github.com/",
+    gitHubUrl: "https://github.com/RomaneGreen/greensgourmets",
     img: "img/fifteen-ss.png",
-    title: "Fifteen",
+    title: "Green's Gourmets",
     desc:
-      "Web app."
+      "A resaturant built using React and Redux featuring an online store built using Gatsby and Graphql.Deployed using netlify."
   },
   {
     url: "https://streamdefy.com/",
-    gitHubUrl: "https://github.com/",
-    img: "img/dashboard-box.png",
-    title: "Dashboard Box",
+    gitHubUrl: "https://github.com/RomaneGreen/stream-defy",
+    img: "img/stream.png",
+    title: "Stream Defy",
     desc:
-      "web app"
+      "A youtube music player built using React,Redux and firebase.Uses the Youtube API for data,firebase realtime database to store data and firebase authentication for google login."
   },
   {
     url: "https://www.knewtocrypto.com",
-    gitHubUrl: "https://github.com/",
+    gitHubUrl: "https://github.com/RomaneGreen/knewtocrypto",
     img: "img/bryant-ss.png",
-    title: "Bryant Hill",
+    title: "Knew to Crypto",
     desc:
-      "web app"
+      "A website for beginners to cryptocurrency.Built with Ruby on rails,deployed with heroku.CoinMarket API is used to grab data on cryptocurrencies"
   },
   {
     url: "https://rivify.com",
-    gitHubUrl: "https://github.com/",
+    gitHubUrl: "https://github.com/RomaneGreen/Rivify",
     img: "img/natour-ss.png",
-    title: "Naurs",
+    title: "Rivify",
     desc:
-      "web app"
+      " A fiverr like site,but for web services.Written in python using the Django framework. Utilizes Stripe plus papyal to process user payments and features Google+Facebook login.Hosted using digital ocean"
   },
   {
     url: "https://codersconscious.com",
-    gitHubUrl: "https://github.com/",
+    gitHubUrl: "https://github.com/RomaneGreen/Coders_Conscious",
     img: "img/natour-ss.png",
-    title: "Natours",
+    title: "Coders Conscious",
     desc:
-      "web app"
+      "My personal blog all about tutorials,news and reviews in relation to web development.Written in php using the Laravel framework.Hosted on an AWS Elastic beanstalk."
   }
 ];
 
