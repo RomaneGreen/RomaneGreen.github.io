@@ -7,7 +7,7 @@ const data = [
   {
     url: "https://greensgourmets.com/",
     gitHubUrl: "https://github.com/RomaneGreen/greensgourmets",
-    img: "img/fifteen-ss.png",
+    img: "img/react.png",
     title: "Green's Gourmets",
     desc:
       "A resaturant built using React and Redux featuring an online store built using Gatsby and Graphql.Deployed using netlify."
@@ -15,7 +15,7 @@ const data = [
   {
     url: "https://streamdefy.com/",
     gitHubUrl: "https://github.com/RomaneGreen/stream-defy",
-    img: "img/stream.png",
+    img: "img/streamdefy.jpg",
     title: "Stream Defy",
     desc:
       "A youtube music player built using React,Redux and firebase.Uses the Youtube API for data,firebase realtime database to store data and firebase authentication for google login."
@@ -23,7 +23,7 @@ const data = [
   {
     url: "https://www.knewtocrypto.com",
     gitHubUrl: "https://github.com/RomaneGreen/knewtocrypto",
-    img: "img/bryant-ss.png",
+    img: "img/knewtocrypto.jpg",
     title: "Knew to Crypto",
     desc:
       "A website for beginners to cryptocurrency.Built with Ruby on rails,deployed with heroku.CoinMarket API is used to grab data on cryptocurrencies"
@@ -31,7 +31,7 @@ const data = [
   {
     url: "https://rivify.com",
     gitHubUrl: "https://github.com/RomaneGreen/Rivify",
-    img: "img/natour-ss.png",
+    img: "img/rivify.jpg",
     title: "Rivify",
     desc:
       " A fiverr like site,but for web services.Written in python using the Django framework. Utilizes Stripe plus papyal to process user payments and features Google+Facebook login.Hosted using digital ocean"
@@ -39,7 +39,7 @@ const data = [
   {
     url: "https://codersconscious.com",
     gitHubUrl: "https://github.com/RomaneGreen/Coders_Conscious",
-    img: "img/natour-ss.png",
+    img: "img/codersconscious.jpg",
     title: "Coders Conscious",
     desc:
       "My personal blog all about tutorials,news and reviews in relation to web development.Written in php using the Laravel framework.Hosted on an AWS Elastic beanstalk."
