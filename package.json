@@ -1,0 +1,29 @@
+{
+  "name": "romanegreen.github.io",
+  "version": "1.0.0",
+  "description": "Romane Green Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaneGreen/RomaneGreen.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "projects"
+  ],
+  "author": "Romane Green",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RomaneGreen/RomaneGreen.github.io/issues"
+  },
+  "homepage": "https://github.com/RomaneGreen/RomaneGreen.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^9.4.5",
+    "node-sass": "^4.11.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^6.1.1"
+  }
+}
