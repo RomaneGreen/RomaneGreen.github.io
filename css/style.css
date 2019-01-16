@@ -532,6 +532,21 @@ body {
     color: #1D976C;
     font-weight: bold; }
 
+article.card:nth-child(3) {
+  background-color: red;
+  position: relative;
+  top: 43rem; }
+
+article.card:nth-child(2) {
+  background-color: red;
+  position: relative;
+  left: 17rem; }
+
+article.card:nth-child(1) {
+  background-color: red;
+  position: relative;
+  left: 13rem; }
+
 .margin-bottom-small {
   margin-bottom: 2rem !important; }
 

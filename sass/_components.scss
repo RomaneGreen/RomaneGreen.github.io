@@ -336,21 +336,27 @@
       margin-top: 1rem;
     }
   }
+
+  
   
   .card {
     width: calc(100% / 3 - 2rem);
     height: 41rem;
     margin: 1rem;
     overflow: hidden;
+    
     border-bottom-right-radius: $borders;
     border-bottom-left-radius: $borders;
     border: 1px solid $color-gray;
+    
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   
     @include responsive(tab-port) {
       //widh < 900px?
       width: calc(100% / 2 - 2rem);
     }
+
+    
   
     @include responsive(phone) {
       //widh < 600px?
@@ -620,4 +626,23 @@
       color: $color-red;
       font-weight: bold;
     }
+  }
+
+
+ // Used to align five projects with two on top,three on bottom.Remove for normal alignment
+  article.card:nth-child(3) {background-color: red;
+    position: relative;
+    top : 43rem;
+  }
+
+  article.card:nth-child(2) {background-color: red;
+    position: relative;
+    left: 17rem;
+    
+  }
+
+  article.card:nth-child(1) {background-color: red;
+    position: relative;
+    left: 13rem;
+    
   }

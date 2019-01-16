@@ -134,7 +134,7 @@ body {
       color: rgba(255, 255, 255, 0.8); }
     .user-nav__link:hover {
       color: #fff;
-      background: green; }
+      background: #1D976C; }
     @media only screen and (max-width: 37.5em) {
       .user-nav__link {
         padding: 1rem; } }
@@ -185,7 +185,7 @@ body {
         font-size: 3rem;
         margin-bottom: 2rem; } }
     .hero__heading--name {
-      color: $color-red; }
+      color: #1D976C; }
 
 .btn {
   font-size: 1.5rem;
@@ -198,18 +198,18 @@ body {
   outline: none;
   cursor: pointer;
   color: #fff;
-  background-color: green;
+  background-color: #1D976C;
   transition: all 400ms; }
   @media only screen and (max-width: 37.5em) {
     .btn {
       padding: 1rem; } }
   .btn:hover {
-    background-color: #BD032B; }
+    background-color: #1D976C; }
 
 .section-header {
   padding: 2rem 0;
   text-align: center;
-  background: linear-gradient(62deg, #fc5d76, #BD032B); }
+  background: linear-gradient(62deg, #93F9B9, #1D976C); }
   @media only screen and (max-width: 37.5em) {
     .section-header {
       padding: 1rem; } }
@@ -257,7 +257,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    background: #fc5d76;
+    background: #93F9B9;
     margin-bottom: 1rem; }
     @media only screen and (max-width: 56.25em) {
       .about__icon-container {
@@ -314,7 +314,7 @@ body {
   font-size: 1.8rem;
   font-weight: 600;
   margin: 2rem 0 0 1rem;
-  color: green; }
+  color: #1D976C; }
   @media only screen and (max-width: 56.25em) {
     .skills {
       width: 100%; } }
@@ -385,7 +385,7 @@ body {
     bottom: 1rem;
     transform: translateX(-50%); }
     .card__github:hover {
-      color: #fc5d76; }
+      color: #93F9B9; }
 
 .reference {
   width: calc(100% / 3 - 2rem);
@@ -406,14 +406,14 @@ body {
     text-decoration: none;
     transition: color 400ms; }
     .reference__link:hover {
-      color: green; }
+      color: #1D976C; }
 
 .contact-form {
   display: flex;
   width: 75rem;
   padding: 3rem;
   border-radius: 6px;
-  background: linear-gradient(90deg, green 54.3%, #393e46 50%); }
+  background: linear-gradient(90deg, #1D976C 54.3%, #393e46 50%); }
   @media only screen and (max-width: 37.5em) {
     .contact-form {
       background: #393e46; } }
@@ -521,7 +521,7 @@ body {
     color: rgba(255, 255, 255, 0.8);
     transition: all 400ms; }
     .social-media__icon:hover {
-      color: green; }
+      color: #1D976C; }
 
 .copyright {
   font-size: 1.5rem;
@@ -529,8 +529,13 @@ body {
   color: rgba(255, 255, 255, 0.8);
   margin: 0 auto; }
   .copyright__name {
-    color: green;
+    color: #1D976C;
     font-weight: bold; }
+
+article.card:nth-child(3) {
+  background-color: red;
+  position: relative;
+  top: 19rem; }
 
 .margin-bottom-small {
   margin-bottom: 2rem !important; }
