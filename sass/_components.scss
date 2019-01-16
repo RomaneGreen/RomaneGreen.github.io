@@ -630,6 +630,16 @@
 
 
  // Used to align five projects with two on top,three on bottom.Remove for normal alignment
+ article.card:nth-child(5) {
+  position: relative;
+  bottom: 0rem;
+}
+
+article.card:nth-child(4) {
+  position: relative;
+  bottom: -.5rem;
+ 
+}
   article.card:nth-child(3) {
     position: relative;
     top : 43rem;
@@ -638,11 +648,13 @@
   article.card:nth-child(2) {
     position: relative;
     left: 17rem;
+    bottom: 1.5rem;
     
   }
 
   article.card:nth-child(1) {
     position: relative;
     left: 13rem;
+    bottom: 1.5rem;
     
   }
