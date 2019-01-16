@@ -630,18 +630,18 @@
 
 
  // Used to align five projects with two on top,three on bottom.Remove for normal alignment
-  article.card:nth-child(3) {background-color: red;
+  article.card:nth-child(3) {
     position: relative;
     top : 43rem;
   }
 
-  article.card:nth-child(2) {background-color: red;
+  article.card:nth-child(2) {
     position: relative;
     left: 17rem;
     
   }
 
-  article.card:nth-child(1) {background-color: red;
+  article.card:nth-child(1) {
     position: relative;
     left: 13rem;
     
