@@ -630,6 +630,8 @@
 
 
  // Used to align five projects with two on top,three on bottom.Remove for normal alignment
+ @media  screen and (min-width: 1280px) {
+  
  article.card:nth-child(5) {
   position: relative;
   bottom: 0rem;
@@ -658,3 +660,4 @@ article.card:nth-child(4) {
     bottom: 1.5rem;
     
   }
+}
