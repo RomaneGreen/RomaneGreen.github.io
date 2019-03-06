@@ -30,9 +30,9 @@ const data = [
   },
   {
     url: "https://rivify.com",
-    gitHubUrl: "https://github.com/RomaneGreen/Rivify",
+    gitHubUrl: "https://github.com/RomaneGreen/get_to_buy",
     img: "img/rivify.jpg",
-    title: "Rivify",
+    title: "Get to buy",
     desc:
       " A fiverr like site,but for web services.Written in python using the Django framework. Utilizes Stripe plus papyal to process user payments and features Google+Facebook login.Hosted using digital ocean"
   },
