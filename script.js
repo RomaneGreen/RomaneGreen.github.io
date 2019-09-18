@@ -29,20 +29,20 @@ const data = [
       "A website for beginners to cryptocurrency.Built with Ruby on rails,deployed with heroku.CoinMarket API is used to grab data on cryptocurrencies"
   },
   {
-    url: "https://rivify.com",
+    url: "https://getwatchify.com",
     gitHubUrl: "https://github.com/RomaneGreen/get_to_buy",
-    img: "img/rivify.jpg",
-    title: "Get to buy",
+    img: "img/getwatchify.png",
+    title: "Get Watchify",
     desc:
-      " A fiverr like site,but for web services.Written in python using the Django framework. Utilizes Stripe plus papyal to process user payments and features Google+Facebook login.Hosted using digital ocean"
+      " A custom watch store built on the shopify platform. "
   },
   {
-    url: "https://codersconscious.com",
-    gitHubUrl: "https://github.com/RomaneGreen/Coders_Conscious",
-    img: "img/codersconscious.jpg",
-    title: "Coders Conscious",
+    url: "https://romanegreen.com",
+    gitHubUrl: "https://github.com/RomaneGreen/RomaneGreen.github.io",
+    img: "img/romanegreensite.png",
+    title: "My portfolio",
     desc:
-      "My personal blog all about tutorials,news and reviews in relation to web development.Written in php using the Laravel framework.Hosted on an AWS Elastic beanstalk."
+      "My personal website built using HTML5,CSS3/SASS and a bit of Vanilla Javascript"
   }
 ];
 
