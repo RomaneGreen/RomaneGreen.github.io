@@ -7,10 +7,10 @@ const data = [
   {
     url: "https://greensgourmets.com/",
     gitHubUrl: "https://github.com/RomaneGreen/greensgourmets",
-    img: "img/greensgourmets.jpg",
-    title: "Green's Gourmets",
+    img: "img/craigsvegan.png",
+    title: "Craig's Vegan",
     desc:
-      "A resaturant built using React and Redux featuring an online store built using Gatsby and Graphql.Deployed using netlify."
+      "A shopify site built for Craig's Vegan, a vegan ice-cream retailer."
   },
   {
     url: "https://KevinAustinFitness.com/",
