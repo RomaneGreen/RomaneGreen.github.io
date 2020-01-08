@@ -30,19 +30,19 @@ const data = [
   },
   {
     url: "https://getwatchify.com",
-    gitHubUrl: "https://github.com/RomaneGreen/get_to_buy",
+    gitHubUrl: "https://github.com/RomaneGreen/RomaneGreen.github.io",
     img: "img/getwatchify.png",
     title: "Get Watchify",
     desc:
       " A custom watch store built on the shopify platform. "
   },
   {
-    url: "https://romanegreen.com",
+    url: "https://romanegreen.com/caix.html",
     gitHubUrl: "https://github.com/RomaneGreen/RomaneGreen.github.io",
-    img: "img/romanegreensite.png",
-    title: "My portfolio",
+    img: "img/caix.png",
+    title: "CAIX",
     desc:
-      "My personal website built using HTML5,CSS3/SASS and a bit of Vanilla Javascript"
+      "Custom email newletter for Cryptocurrency Information and Digital Assests Exchange(CAIX)"
   }
 ];
 
