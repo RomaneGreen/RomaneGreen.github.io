@@ -13,18 +13,18 @@ const data = [
       "A resaturant built using React and Redux featuring an online store built using Gatsby and Graphql.Deployed using netlify."
   },
   {
-    url: "https://streamdefy.com/",
+    url: "https://KevinAustinFitness.com/",
     gitHubUrl: "https://github.com/RomaneGreen/stream-defy",
-    img: "img/streamdefy.jpg",
-    title: "Stream Defy",
+    img: "img/kevinaustin.png",
+    title: "Kevin Austin Fitness",
     desc:
-      "A youtube music player built using React,Redux and firebase.Uses the Youtube API for data,firebase realtime database to store data and firebase authentication for google login."
+      "Single page Wordpress website built for Kevin Austin, fitness enthusiast and trainer."
   },
   {
     url: "https://www.knewtocrypto.com",
     gitHubUrl: "https://github.com/RomaneGreen/knewtocrypto",
     img: "img/knewtocrypto.jpg",
-    title: "Knew to Crypto",
+    title: "New to Crypto?",
     desc:
       "A website for beginners to cryptocurrency.Built with Ruby on rails,deployed with heroku.CoinMarket API is used to grab data on cryptocurrencies"
   },
