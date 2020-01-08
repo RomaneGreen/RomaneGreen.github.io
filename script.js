@@ -5,7 +5,7 @@
 
 const data = [
   {
-    url: "https://greensgourmets.com/",
+    url: "https://craigsvegan.com/",
     gitHubUrl: "https://github.com/RomaneGreen/greensgourmets",
     img: "img/craigsvegan.png",
     title: "Craig's Vegan",
