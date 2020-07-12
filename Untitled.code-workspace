@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../themeforestthemes"
+		},
+		{
+			"path": "../../Downloads/busicol"
+		},
+		{
+			"path": "../../Downloads/digilab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "busicol"
+	}
+}
